@@ -1,7 +1,7 @@
 # GD4PolSARModes
  MATLAB Codes for Geodesic Distance (GD) and its derived parameters across SAR Polarimetric Modes.
  
- **Three standalone MATLAB scripts** in total: (Simply launch in MATLAB editor, read inset initial comments and run. :smiley:)
+ **Three standalone MATLAB scripts** in total:   
 
 *1. CD_QP_simulated_modes_V2.m*  
 >Gedoesic Distance-Based Change Detection maps in various SAR polarimetric modes simulated from two coregistered Quad Polarimetric SAR dataset
@@ -10,7 +10,9 @@
 >Three Gedoesic Distance-Based parameters in various SAR polarimetric modes simulated using Quad Polarimetric SAR data.
 
 *3. pars_S1_grd_V2.m*  
->Gedoesic Distance-Based parameters for Sentinel-1 GRD images (Tested for sea ice in EW mode)
+>Gedoesic Distance-Based parameters for Sentinel-1 GRD images (Tested for sea ice in EW mode)  
+
+(Simply launch in MATLAB editor, read inset initial comments and run. :smiley:)  
 
 ***  
 Author: Debanshu Ratha
