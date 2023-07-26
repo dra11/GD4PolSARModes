@@ -32,5 +32,5 @@ Also see:
 D. Ratha, E. Pottier, A. Bhattacharya and A. C. Frery, "A PolSAR Scattering Power Factorization Framework and Novel Roll-Invariant Parameter-Based Unsupervised Classification Scheme Using a Geodesic Distance," in IEEE Transactions on Geoscience and Remote Sensing, vol. 58, no. 5, pp. 3509-3525, May 2020, doi: 10.1109/TGRS.2019.2957514.  
 <https://ieeexplore.ieee.org/document/8946891>
 
-*For queries or sample datasets used in the article above contact me on the email:*  
+*For queries or sample datasets used in the articles above contact me on the email:*  
 *(myfirstname) dot (mylastname) at gmail dot com.*
