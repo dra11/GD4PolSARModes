@@ -12,6 +12,7 @@
 *3. pars_S1_grd_V2.m*  
 >Gedoesic Distance-Based parameters for Sentinel-1 GRD images (Tested for sea ice in EW mode)
 
+***  
 Author: Debanshu Ratha
 
 Terms of use: CC BY-NC-SA
@@ -24,4 +25,5 @@ Related Published work:
 Distance-Based Approach for Analysis of SAR Observations Across 
 Polarimetric Modes," in IEEE Transactions on Geoscience and Remote Sensing, 
 vol. 61, pp. 1-16, 2023, Art no. 5200116, doi: 10.1109/TGRS.2022.3231932.  
+<https://ieeexplore.ieee.org/document/9998571>
 
