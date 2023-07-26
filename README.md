@@ -24,7 +24,8 @@ Terms of use: CC BY-NC-SA
 Related Published work:
 
 D. Ratha, A. Marinoni and T. Eltoft, "A Generalized Geodesic Distance-Based Approach for Analysis of SAR Observations Across 
-Polarimetric Modes," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023, Art no. 5200116, doi: 10.1109/TGRS.2022.3231932.  
+Polarimetric Modes," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023, Art no. 5200116,  
+doi: 10.1109/TGRS.2022.3231932.  
 <https://ieeexplore.ieee.org/document/9998571>  
 
 Also see: 
