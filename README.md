@@ -1,5 +1,5 @@
 # GD4PolSARModes
- MATLAB Codes for GD and parameters across SAR Polarimetric Modes.
+ MATLAB Codes for GD and its derived parameters across SAR Polarimetric Modes.
  
  **Three standalone MATLAB scripts** in total:
 
