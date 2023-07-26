@@ -27,5 +27,7 @@ Related Published work:
 Distance-Based Approach for Analysis of SAR Observations Across 
 Polarimetric Modes," in IEEE Transactions on Geoscience and Remote Sensing, 
 vol. 61, pp. 1-16, 2023, Art no. 5200116, doi: 10.1109/TGRS.2022.3231932.  
-<https://ieeexplore.ieee.org/document/9998571>
+<https://ieeexplore.ieee.org/document/9998571>  
 
+*For queries or sample datasets used in the article above contact me on the email*  
+*(firstname) dot (lastname) at gmail dot com.*
